@@ -9,19 +9,16 @@ public class Arista{
     private boolean habilitado;
 
     public Arista(){
-        // initialise instance variables
         this(-1,"");
     }
     public Arista(int idArista){
-        // initialise instance variables
+       
         this(-1,"");
     }
     public Arista(int idArista,String nombreArista){
-        // initialise instance variables
         this(-1,"",1);
     }
     public Arista(int idArista,String nombreArista,int peso){
-        // initialise instance variables
         this.idArista = idArista;
         this.nombreArista = nombreArista;
         this.peso = peso;

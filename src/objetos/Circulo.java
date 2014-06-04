@@ -4,7 +4,6 @@ import java.awt.*;
 
 public class Circulo
 {
-    // instance variables - replace the example below with your own
     private Coordenadas coordenadas;
     private Color color;
     private int diametro;
@@ -13,7 +12,7 @@ public class Circulo
     private int izquierda;
     private int grosorBorde;
     /**
-     * Constructor for objects of class Circulo
+     * Constructor class Circulo
      */
     public Circulo(Coordenadas coordenadas){
         // initialise instance variables

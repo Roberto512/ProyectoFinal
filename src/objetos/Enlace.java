@@ -6,7 +6,7 @@ public class Enlace{
     private Nodo nodo;
 
     /**
-     * Constructor for objects of class Arista
+     * Constructor class Arista
      */
     public Enlace(){
         // initialise instance variables

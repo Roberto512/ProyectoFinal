@@ -7,7 +7,6 @@ public class Coordenadas extends ArrayList < int[] >
     private int xMaxima;
     private int yMaxima;
     public Coordenadas(){
-        // initialise instance variables
         this(0, 0);
     }
     public Coordenadas(int xMaxima, int yMaxima){
@@ -17,7 +16,6 @@ public class Coordenadas extends ArrayList < int[] >
         this.yMaxima = yMaxima;
     }
     public Coordenadas(int xMaxima, int yMaxima,int x, int y){
-        // initialise instance variables
         super();        
         this.xMaxima = xMaxima;
         this.yMaxima = yMaxima;

@@ -4,7 +4,7 @@ import java.awt.*;
 
 public class LineaQuebrada
 {
-    // instance variables - replace the example below with your own
+
     private Coordenadas coordenadas;
     private Color color;
     private float grosorLinea;
@@ -12,7 +12,7 @@ public class LineaQuebrada
     private int longitud;
     private boolean mostrarEtiqueta;
     /**
-     * Constructor for objects of class LineaQuebrada
+     * Constructor class LineaQuebrada
      */
     public LineaQuebrada(Coordenadas coordenadas){
         // initialise instance variables
